@@ -1,6 +1,6 @@
 ---
 name: Climate Change and Environmental Sustainability
-about: 'User_Story '
+about: Environmental Data Analysis
 title: Environmental Data Analysis
 labels: ''
 assignees: ''
