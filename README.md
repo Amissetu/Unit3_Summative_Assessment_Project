@@ -244,6 +244,7 @@ release:
 ## Credits
 
 - **Project template:** [Code Institute Data Analytics Template](https://github.com/Code-Institute-Org/data-analytics-template).
+- **README template:** [Code Institute Data Analytics README Template](https://github.com/Code-Institute-Solutions/da-README-template).
 - WHO, [Global air quality guidelines](https://www.who.int/publications/i/item/9789240034228)
   (2021).
 - GDPR, [Regulation (EU) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj).
