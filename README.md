@@ -25,6 +25,8 @@ modeling, and a Streamlit dashboard for communicating trends.
 
 ## Run the dashboard
 
+**Live dashboard:** [Open the Environmental Trends & Sensor Monitor](https://climate-change-1990-2025-app-b2df3a2baf60.herokuapp.com/)
+
 From the project root, install the requirements and start Streamlit:
 
 ```powershell
